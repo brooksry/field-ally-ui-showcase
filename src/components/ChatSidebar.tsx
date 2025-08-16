@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 
 const chatSessions = [
-  { id: 1, title: "2025 4Runner - Hybrid Hesitation", isActive: true },
+  { id: 1, title: "2025 4Runner - Water Leak", isActive: true },
   { id: 2, title: "2024 Tacoma - Window Whistle", isActive: false },
   { id: 3, title: "2025 Ram 1500 - Infotainment Reboot", isActive: false },
   { id: 4, title: "2023 F-150 - Engine Knock", isActive: false },
